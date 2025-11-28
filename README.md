@@ -1,1 +1,1 @@
-# Simula-o-de-conflito-entre-arquivos
+# Simula-o-de-conflito-entre-arquivo
