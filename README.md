@@ -1,4 +1,3 @@
 # Simula-o-de-conflito-
-comer carne de gado, teste geração de conflito 
-teste
-
+comer carne suina da africa, pode conter praga nociva a toda espécie.
+teste1
